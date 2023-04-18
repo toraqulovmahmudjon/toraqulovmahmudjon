@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋, my name is Makhmoodjan
+#### I am Fullstack Developer
 
-<!--
-**toraqulovmahmudjon/toraqulovmahmudjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Makhmoodjan, from Uzbekistan and I build Fullstack Website.I really enjoy learning new technologies, frameworks and languages like Django,React,Python,VueJs. How to reach me: email -> toraqulovmahmudjon@gmail.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills (Main Programming Langugages):  Python / JavaScript ec6+ 
+
+Skills (Data Bases):  PostgreSQL , MangoDb ,SQL  and etc...
+
+Skills (Frontend Web):  HTML5  /  CSS3  /  SASS/SCSS/LESS  /  BOOTSTRAP  / Material Ui  
+
+Skills (Framworks for Backend Web): Django , Django Rest Framework    
+
+Skills (Framworks for Frontent Web): React Js .
+
+Skills (Second Languages or Frameworks): Vue Js / C++  / Php / Node Js / Semantic UI/Materialize / Tailwind Css / MangoDB and etc.    
+ 
+  
+ 
+ 
+- 🔭 I’m currently studying at TUITFB and working as a freelancer
+- 🌱 I’m currently working as a freelancer
+- 👯 I’m looking to collaborate on other developers 
+- 💬 Ask me about working as a freelancer
+- 📫 How to reach me: email -> toraqulovmahmudjon@gmail. 
+- ⚡ Fun fact:  I'm fond of playing and watching football.  
+ 
+
+
+UPDATED: 18.04.2023
